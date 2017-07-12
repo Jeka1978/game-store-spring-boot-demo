@@ -1,0 +1,6 @@
+nice:
+  notification:
+    mails:
+    - tal.tzur@nice.com
+    - tal.gur@nice.com
+    enabled: false
